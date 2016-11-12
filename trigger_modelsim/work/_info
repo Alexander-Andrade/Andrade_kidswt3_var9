@@ -1,0 +1,158 @@
+m255
+cModel Technology
+dC:\Modeltech_5.7f\win32
+Eauto_test
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1478970524
+dC:\Modeltech_5.7f\examples\trigger
+FC:/Modeltech_5.7f/examples/trigger/auto_test.vhd
+l0
+L4
+VbSZH9;1]me6QTS58YKQ0Y3
+OE;C;5.7f;15
+o-work work -87 -explicit
+tExplicit T
+Abehavioral
+DE work trigger_behav GBLaE<^e5aLW4bJQ5UP100
+DE work trigger_structural NcbSUVVaZF55B9Z;Md`SF0
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+DE work auto_test bSZH9;1]me6QTS58YKQ0Y3
+l20
+L7
+V0?gznmED@FN9>FeQBh]G62
+OE;C;5.7f;15
+M1 ieee std_logic_1164
+o-work work -87 -explicit
+tExplicit T
+Eautomation_test
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1478970831
+dC:\Modeltech_5.7f\examples\trigger
+FC:/Modeltech_5.7f/examples/trigger/automation_test.vhd
+l0
+L4
+V8Ti>N9DIBJJUaU1amaLT`0
+OE;C;5.7f;15
+o-work work -87 -explicit
+tExplicit T
+Abehavioral
+DE work trigger_behav GBLaE<^e5aLW4bJQ5UP100
+DE work trigger_structural NcbSUVVaZF55B9Z;Md`SF0
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+DE work automation_test 8Ti>N9DIBJJUaU1amaLT`0
+l21
+L8
+VaKaBd0kAETP@1]B`^K3U41
+OE;C;5.7f;15
+M1 ieee std_logic_1164
+o-work work -87 -explicit
+tExplicit T
+Efunctional_test
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1478959913
+dC:\Modeltech_5.7f\examples\trigger
+FC:/Modeltech_5.7f/examples/trigger/functional_test.vhd
+l0
+L4
+VkmYf?BSN756nE[0TZbc=]0
+OE;C;5.7f;15
+o-work work -87 -explicit
+tExplicit T
+Abehavioral
+DE work trigger_behav GBLaE<^e5aLW4bJQ5UP100
+DE work trigger_structural NcbSUVVaZF55B9Z;Md`SF0
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+DE work functional_test kmYf?BSN756nE[0TZbc=]0
+l20
+L7
+VMnMczRYX^<7Tjh1d=J>AZ1
+OE;C;5.7f;15
+M1 ieee std_logic_1164
+o-work work -87 -explicit
+tExplicit T
+En
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1478965165
+dC:\Modeltech_5.7f\examples\trigger
+FC:/Modeltech_5.7f/examples/trigger/N.vhd
+l0
+L4
+VD<AkN=a5>7NLlMN?`L6Qd0
+OE;C;5.7f;15
+o-work work -87 -explicit
+tExplicit T
+Abehavioral
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+DE work n D<AkN=a5>7NLlMN?`L6Qd0
+l10
+L9
+Vzdld;X[3[NdE1QW<I<[mQ2
+OE;C;5.7f;15
+M1 ieee std_logic_1164
+o-work work -87 -explicit
+tExplicit T
+Enoa22
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1478965103
+dC:\Modeltech_5.7f\examples\trigger
+FC:/Modeltech_5.7f/examples/trigger/NOA22.vhd
+l0
+L4
+V0nkOe3iR3@n4n3>ZIMYQ42
+OE;C;5.7f;15
+o-work work -87 -explicit
+tExplicit T
+Abehavioral
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+DE work noa22 0nkOe3iR3@n4n3>ZIMYQ42
+l10
+L9
+Vn;7]gFMaT7M?I=n6]JYB32
+OE;C;5.7f;15
+M1 ieee std_logic_1164
+o-work work -87 -explicit
+tExplicit T
+Etrigger_behav
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1478965930
+dC:\Modeltech_5.7f\examples\trigger
+FC:/Modeltech_5.7f/examples/trigger/behavioral.vhd
+l0
+L4
+VGBLaE<^e5aLW4bJQ5UP100
+OE;C;5.7f;15
+o-work work -87 -explicit
+tExplicit T
+Abehavioral
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+DE work trigger_behav GBLaE<^e5aLW4bJQ5UP100
+l11
+L9
+Vd9Ozn?1J`njWJkkjN?M=30
+OE;C;5.7f;15
+M1 ieee std_logic_1164
+o-work work -87 -explicit
+tExplicit T
+Etrigger_structural
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1478962968
+dC:\Modeltech_5.7f\examples\trigger
+FC:/Modeltech_5.7f/examples/trigger/structural.vhd
+l0
+L4
+VNcbSUVVaZF55B9Z;Md`SF0
+OE;C;5.7f;15
+o-work work -87 -explicit
+tExplicit T
+Abehavioral
+DE work noa22 0nkOe3iR3@n4n3>ZIMYQ42
+DE work n D<AkN=a5>7NLlMN?`L6Qd0
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+DE work trigger_structural NcbSUVVaZF55B9Z;Md`SF0
+l21
+L9
+VL`Dn_dSiQk9gQhUF3a2M@2
+OE;C;5.7f;15
+M1 ieee std_logic_1164
+o-work work -87 -explicit
+tExplicit T

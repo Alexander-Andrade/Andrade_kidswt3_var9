@@ -1,0 +1,49 @@
+C:/Modeltech_5.7f/examples/trigger/auto_test.vhd {1 {vcom -work work -87 -explicit C:/Modeltech_5.7f/examples/trigger/auto_test.vhd
+Model Technology ModelSim SE vcom 5.7f Compiler 2003.09 Sep 15 2003
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity auto_test
+-- Compiling architecture behavioral of auto_test
+-- Loading entity trigger_structural
+-- Loading entity trigger_behav
+
+} {} {}} C:/Modeltech_5.7f/examples/trigger/behavioral.vhd {1 {vcom -work work -87 -explicit C:/Modeltech_5.7f/examples/trigger/behavioral.vhd
+Model Technology ModelSim SE vcom 5.7f Compiler 2003.09 Sep 15 2003
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity trigger_behav
+-- Compiling architecture behavioral of trigger_behav
+
+} {} {}} C:/Modeltech_5.7f/examples/trigger/structural.vhd {1 {vcom -work work -87 -explicit C:/Modeltech_5.7f/examples/trigger/structural.vhd
+Model Technology ModelSim SE vcom 5.7f Compiler 2003.09 Sep 15 2003
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity trigger_structural
+-- Compiling architecture behavioral of trigger_structural
+-- Loading entity n
+-- Loading entity noa22
+
+} {} {}} C:/Modeltech_5.7f/examples/trigger/N.vhd {1 {vcom -work work -87 -explicit C:/Modeltech_5.7f/examples/trigger/N.vhd
+Model Technology ModelSim SE vcom 5.7f Compiler 2003.09 Sep 15 2003
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity n
+-- Compiling architecture behavioral of n
+
+} {} {}} C:/Modeltech_5.7f/examples/trigger/NOA22.vhd {1 {vcom -work work -87 -explicit C:/Modeltech_5.7f/examples/trigger/NOA22.vhd
+Model Technology ModelSim SE vcom 5.7f Compiler 2003.09 Sep 15 2003
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity noa22
+-- Compiling architecture behavioral of noa22
+
+} {} {}} C:/Modeltech_5.7f/examples/trigger/functional_test.vhd {1 {vcom -work work -87 -explicit C:/Modeltech_5.7f/examples/trigger/functional_test.vhd
+Model Technology ModelSim SE vcom 5.7f Compiler 2003.09 Sep 15 2003
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity functional_test
+-- Compiling architecture behavioral of functional_test
+-- Loading entity trigger_structural
+-- Loading entity trigger_behav
+
+} {} {}}
